@@ -1,11 +1,11 @@
-# 📊 Sales Data Analysis Dashboard
+# Sales Data Analysis Dashboard
 
-### 🎯 Objective
+###  Objective
 To analyze sales data across multiple cities and identify key products, time trends, and revenue opportunities that can drive business growth.
 
 ---
 
-### 🧰 Tools Used
+###  Tools Used
 - **Microsoft Excel**
   - Pivot Tables  
   - Charts  
@@ -14,7 +14,7 @@ To analyze sales data across multiple cities and identify key products, time tre
 
 ---
 
-### 🧠 Dataset Columns
+###  Dataset Columns
 `Sr No`, `Order ID`, `Product`, `Quantity Ordered`, `Price Each`, `Order Date`, `Purchase Address`, `Month`, `Sales`, `City`, `Hour`
 
 ---
