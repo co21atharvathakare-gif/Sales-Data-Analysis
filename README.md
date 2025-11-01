@@ -36,5 +36,6 @@ To analyze sales data across multiple cities and identify key products, time tre
 ### 👨‍💻 Created By
 **Atharva Thakare**  
 *Aspiring Data Analyst | Excel | SQL | Power BI | Python (Beginner)*  
-🔗 [GitHub Profile](https://github.com/atharva-thakare)
+🔗 [GitHub Profile](https://github.com//co21atharvathakare-gif)
+
 
